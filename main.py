@@ -1,5 +1,4 @@
 import streamlit as st
-import openai
 import subprocess
 import os
 import zipfile
